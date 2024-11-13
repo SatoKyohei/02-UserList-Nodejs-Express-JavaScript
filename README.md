@@ -8,6 +8,7 @@
 - Node.js
 - Express
 - JavaScript
+- SQL
 - HTML
 
 <br/>
@@ -23,6 +24,7 @@
 
 ## 学べる点
 - 基礎的なCRUD操作のAPI実装
+- 基礎的なテーブル設計
 
 <br/>
 <br/>
