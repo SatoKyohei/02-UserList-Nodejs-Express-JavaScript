@@ -25,6 +25,7 @@
 ## 学べる点
 - 基礎的なCRUD操作のAPI実装
 - 基礎的なテーブル設計
+- 一からpackage.jsonとかnode_modulesとかappディレクトリとかを作成
 
 <br/>
 <br/>
